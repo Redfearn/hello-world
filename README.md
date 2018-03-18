@@ -1,2 +1,4 @@
 # hello-world
-Forst respository
+First respository
+Here is some text about me.
+Interesting eh?
